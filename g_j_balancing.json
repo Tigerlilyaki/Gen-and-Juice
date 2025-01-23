@@ -1,6 +1,6 @@
 {
 	"Name": "G&J Balancing",
-	"Version": 1737572151,
+	"Version": 1737608444,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2673,8 +2673,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
