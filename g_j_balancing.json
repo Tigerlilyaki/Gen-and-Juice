@@ -1,6 +1,6 @@
 {
 	"Name": "G&J Balancing",
-	"Version": 1740194318,
+	"Version": 1741972459,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -34,7 +34,6 @@
 				"43",
 				"267",
 				"46",
-				"47",
 				"49",
 				"51",
 				"262",
@@ -484,7 +483,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"13"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1122,6 +1123,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
+				"13",
 				"38",
 				"54",
 				"58",
