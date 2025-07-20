@@ -1,6 +1,6 @@
 {
 	"Name": "G&J Balancing",
-	"Version": 1752520235,
+	"Version": 1752970277,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2946,6 +2946,7 @@
 				772
 			],
 			"ItemWhitelist": [
+				0,
 				5
 			],
 			"AddonWhitelist": {
